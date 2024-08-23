@@ -17,6 +17,7 @@ header ul{
 }
 header ul li {
     margin: 30px;
+    font-family: cursive;
 }
 
 
@@ -68,4 +69,17 @@ p{
 .caja p {
     font-size: 12px;
 
+}
+
+.hola{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    background-color: rgb(211, 244, 168);
+    font-size: 100%;
+    width: 100%; 
+}
+
+.hola img {
+    width: 80%;
 }
